@@ -1,0 +1,17 @@
+{
+  "name": "printSyntaxError",
+  "version": "1.0.0",
+  "main": "js/printSyntaxError",
+  "lotus": {
+    "plugins": [
+      "lotus-coffee"
+    ],
+    "implicitDependencies": [
+      "path"
+    ]
+  },
+  "dependencies": {
+    "log": "aleclarson/log#1.0.1",
+    "repeat-string": "aleclarson/repeat-string#1.5.4"
+  }
+}
