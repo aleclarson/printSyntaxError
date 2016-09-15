@@ -11,7 +11,7 @@
     ]
   },
   "dependencies": {
-    "log": "aleclarson/log#1.0.1",
+    "log": "aleclarson/log#2.0.0",
     "repeat-string": "aleclarson/repeat-string#1.5.4"
   }
 }
