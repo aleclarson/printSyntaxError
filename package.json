@@ -10,7 +10,7 @@
     "postinstall": "npm run build"
   },
   "dependencies": {
-    "log": "aleclarson/log#2.1.0",
+    "log": "aleclarson/log#2.2.0",
     "repeat-string": "aleclarson/repeat-string#1.5.4"
   },
   "implicitDependencies": [
